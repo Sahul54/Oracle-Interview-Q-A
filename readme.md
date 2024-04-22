@@ -8,6 +8,8 @@
 
 ## Here is a table that summarizes the key differences between SQL, MySQL, and Oracle:
 
+# main-qimg-09ccdaaedf0204b29b447bf0992f410b.png
+
 
 ### Ultimately, the best RDBMS for you will depend on your specific needs and requirements. If you are looking for a free and easy-to-use RDBMS for small to medium-sized businesses, MySQL is a good option. If you are looking for a more powerful and scalable RDBMS for large enterprises, Oracle is a good option.
 
