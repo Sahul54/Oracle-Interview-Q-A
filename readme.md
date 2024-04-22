@@ -3,7 +3,7 @@
 Ans: SQL, MySQL, and Oracle are all relational database management systems (RDBMS). They all use the SQL language to manage data, but there are some key differences between them.
 
 SQL is a language for defining, manipulating, and querying data in relational databases. It is a standard language, so it can be used with any RDBMS.
-## MySQL is an open-source RDBMS that is based on SQL. It is a popular choice for small to medium-sized businesses because it is free and easy to use.
+### MySQL is an open-source RDBMS that is based on SQL. It is a popular choice for small to medium-sized businesses because it is free and easy to use.
 Oracle is a commercial RDBMS that is more powerful and scalable than MySQL. It is a popular choice for large enterprises because it can handle high volumes of data and complex queries.
 Here is a table that summarizes the key differences between SQL, MySQL, and Oracle:
 
